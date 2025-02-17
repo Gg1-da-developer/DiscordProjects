@@ -7,7 +7,7 @@ const TRACKING_CODE = "YOUR_TRACKING_CODE_HERE";
 const DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK_URL;
 
 if (!GRABIFY_API_KEY || !DISCORD_WEBHOOK_URL) {
-    console.error("❌ Missing environment variables!");
+    console.error("Missing environment variables!");
     process.exit(1);
 }
 
