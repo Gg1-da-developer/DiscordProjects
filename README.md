@@ -1,7 +1,7 @@
 # DiscordProjects
-1.Change the API keys 
-2.Add your webhook
-3.THATS ALL!
+Replace TrackingCodeGoesHere with your actual tracking code
+Keep your .env file with valid credentials
+Install dependencies (axios, dotenv)
 
 # Disclaimer
 
