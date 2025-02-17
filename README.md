@@ -1,3 +1,7 @@
+## Installation
+```bash
+npm install
+
 # DiscordProjects
 Replace TrackingCodeGoesHere with your actual tracking code
 Keep your .env file with valid credentials
