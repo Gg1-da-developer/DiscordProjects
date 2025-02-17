@@ -1,4 +1,4 @@
-# DiscordProjects
+# Placeholders
 Replace TrackingCodeGoesHere with your actual tracking code
 Keep your .env file with valid credentials
 Install dependencies (axios, dotenv)
